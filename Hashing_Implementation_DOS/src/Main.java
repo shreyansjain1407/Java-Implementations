@@ -81,7 +81,7 @@ public class Main {
             hashGenerator(1, sb, outputs);
             for(Map.Entry set: outputs.entrySet()){
 //                System.out.println(set.getKey() + "\t" + set.getValue());
-                if(Pattern.matches("^2.*", (String)set.getValue())){
+                if(Pattern.matches("^00.*", (String)set.getValue())){
                     System.out.println(set.getKey() + "\t" + set.getValue() + "\n");
                     fileWriter.write(set.getKey() + "\t" + set.getValue() + "\n");
                 }
