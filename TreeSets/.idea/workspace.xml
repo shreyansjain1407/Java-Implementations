@@ -29,6 +29,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="JAVA&#10;PLAIN_TEXT" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager" selected="Java Scratch.Scratch">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -61,7 +62,8 @@
       <option name="presentableId" value="Default" />
       <updated>1636124416249</updated>
       <workItem from="1636124418211" duration="418000" />
-      <workItem from="1636253259144" duration="881000" />
+      <workItem from="1636253259144" duration="3270000" />
+      <workItem from="1636335543444" duration="759000" />
     </task>
     <servers />
   </component>
