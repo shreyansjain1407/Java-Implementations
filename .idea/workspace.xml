@@ -30,7 +30,14 @@
     <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="JAVA" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Java Scratch.Scratch (1)">
+    <configuration name="Scratch (1)" type="Java Scratch" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Scratch" />
+      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_5.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Scratch" type="Java Scratch" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Scratch" />
       <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java" />
@@ -40,6 +47,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Java Scratch.Scratch (1)" />
         <item itemvalue="Java Scratch.Scratch" />
       </list>
     </recent_temporary>
@@ -54,7 +62,12 @@
       <updated>1636845470779</updated>
       <workItem from="1636845472798" duration="2642000" />
       <workItem from="1636849039869" duration="1381000" />
-      <workItem from="1636925221817" duration="8063000" />
+      <workItem from="1636925221817" duration="13541000" />
+      <workItem from="1637021093211" duration="3622000" />
+      <workItem from="1637082241777" duration="4709000" />
+      <workItem from="1637159845267" duration="20620000" />
+      <workItem from="1637435081203" duration="813000" />
+      <workItem from="1637527036689" duration="1112000" />
     </task>
     <servers />
   </component>
