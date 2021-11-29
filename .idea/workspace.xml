@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="58020c62-9c57-41b5-b04b-f70c5c522fc6" name="Changes" comment="" />
+    <list default="true" id="58020c62-9c57-41b5-b04b-f70c5c522fc6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,7 +33,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Computer-Networks-Project" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
-  <component name="RunManager" selected="Java Scratch.Scratch (2)">
+  <component name="RunManager" selected="Java Scratch.Scratch (3)">
     <configuration name="Scratch (1)" type="Java Scratch" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Scratch" />
       <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_5.java" />
@@ -42,6 +44,13 @@
     <configuration name="Scratch (2)" type="Java Scratch" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Scratch" />
       <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scratch (3)" type="Java Scratch" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Scratch" />
+      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_6.java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -62,6 +71,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Java Scratch.Scratch (3)" />
         <item itemvalue="Java Scratch.Scratch (2)" />
         <item itemvalue="Java Scratch.Scratch (1)" />
         <item itemvalue="Java Scratch.Solution" />
@@ -86,7 +96,8 @@
       <workItem from="1637435081203" duration="813000" />
       <workItem from="1637527036689" duration="13162000" />
       <workItem from="1637926560995" duration="3260000" />
-      <workItem from="1637966175336" duration="2143000" />
+      <workItem from="1637966175336" duration="3332000" />
+      <workItem from="1638106106711" duration="848000" />
     </task>
     <servers />
   </component>
