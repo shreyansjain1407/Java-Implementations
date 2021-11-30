@@ -30,10 +30,10 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="JAVA" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Computer-Networks-Project" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Java Scratch.Scratch (3)">
+  <component name="RunManager" selected="Java Scratch.Scratch">
     <configuration name="Scratch (1)" type="Java Scratch" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Scratch" />
       <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_5.java" />
@@ -71,11 +71,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Java Scratch.Scratch" />
         <item itemvalue="Java Scratch.Scratch (3)" />
         <item itemvalue="Java Scratch.Scratch (2)" />
         <item itemvalue="Java Scratch.Scratch (1)" />
         <item itemvalue="Java Scratch.Solution" />
-        <item itemvalue="Java Scratch.Scratch" />
       </list>
     </recent_temporary>
   </component>
@@ -98,6 +98,8 @@
       <workItem from="1637926560995" duration="3260000" />
       <workItem from="1637966175336" duration="3332000" />
       <workItem from="1638106106711" duration="848000" />
+      <workItem from="1638227056940" duration="80000" />
+      <workItem from="1638274608853" duration="2604000" />
     </task>
     <servers />
   </component>
