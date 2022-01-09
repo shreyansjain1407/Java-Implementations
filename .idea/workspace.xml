@@ -33,14 +33,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Java Scratch.Scratch (2)">
-    <configuration name="FindNthRootOfNumber" type="Java Scratch" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FindNthRootOfNumber" />
-      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Java Scratch.Scratch">
     <configuration name="Scratch (1)" type="Java Scratch" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Scratch" />
       <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_4.java" />
@@ -62,6 +55,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Scratch" type="Java Scratch" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Scratch" />
+      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_9.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solution" type="Java Scratch" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution" />
       <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.java" />
@@ -71,11 +71,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Java Scratch.Scratch" />
         <item itemvalue="Java Scratch.Solution" />
         <item itemvalue="Java Scratch.Scratch (4)" />
         <item itemvalue="Java Scratch.Scratch (2)" />
         <item itemvalue="Java Scratch.Scratch (1)" />
-        <item itemvalue="Java Scratch.FindNthRootOfNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -110,7 +110,7 @@
       <workItem from="1640538872488" duration="23000" />
       <workItem from="1640812668413" duration="10193000" />
       <workItem from="1640873670763" duration="620000" />
-      <workItem from="1640983592671" duration="6412000" />
+      <workItem from="1640983592671" duration="15596000" />
     </task>
     <servers />
   </component>
